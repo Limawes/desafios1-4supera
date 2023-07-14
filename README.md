@@ -2,4 +2,4 @@
 
 # Os desafios estão separados por pastas, em cada desafio existe uma classe principal com o método instanciado.
 
-# Dê o start na classe "Main" e realize os teste.
+# Dê o start na classe "Main" e realize os testes.
